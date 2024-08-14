@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/Users/user/Documents/sources/yoga-react-0.71.19/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/user/Documents/sources/yoga-react-0.71.19/. -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.1 -fexceptions -frtti -O3 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -o CMakeFiles/yogacore.dir/yoga/Utils.cpp.o -c /Users/user/Documents/sources/yoga-react-0.71.19/yoga/Utils.cpp",
+  "file": "/Users/user/Documents/sources/yoga-react-0.71.19/yoga/Utils.cpp",
+  "output": "CMakeFiles/yogacore.dir/yoga/Utils.cpp.o"
+},
+{
+  "directory": "/Users/user/Documents/sources/yoga-react-0.71.19/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/user/Documents/sources/yoga-react-0.71.19/. -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.1 -fexceptions -frtti -O3 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -o CMakeFiles/yogacore.dir/yoga/YGConfig.cpp.o -c /Users/user/Documents/sources/yoga-react-0.71.19/yoga/YGConfig.cpp",
+  "file": "/Users/user/Documents/sources/yoga-react-0.71.19/yoga/YGConfig.cpp",
+  "output": "CMakeFiles/yogacore.dir/yoga/YGConfig.cpp.o"
+},
+{
+  "directory": "/Users/user/Documents/sources/yoga-react-0.71.19/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/user/Documents/sources/yoga-react-0.71.19/. -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.1 -fexceptions -frtti -O3 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -o CMakeFiles/yogacore.dir/yoga/YGEnums.cpp.o -c /Users/user/Documents/sources/yoga-react-0.71.19/yoga/YGEnums.cpp",
+  "file": "/Users/user/Documents/sources/yoga-react-0.71.19/yoga/YGEnums.cpp",
+  "output": "CMakeFiles/yogacore.dir/yoga/YGEnums.cpp.o"
+},
+{
+  "directory": "/Users/user/Documents/sources/yoga-react-0.71.19/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/user/Documents/sources/yoga-react-0.71.19/. -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.1 -fexceptions -frtti -O3 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -o CMakeFiles/yogacore.dir/yoga/YGLayout.cpp.o -c /Users/user/Documents/sources/yoga-react-0.71.19/yoga/YGLayout.cpp",
+  "file": "/Users/user/Documents/sources/yoga-react-0.71.19/yoga/YGLayout.cpp",
+  "output": "CMakeFiles/yogacore.dir/yoga/YGLayout.cpp.o"
+},
+{
+  "directory": "/Users/user/Documents/sources/yoga-react-0.71.19/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/user/Documents/sources/yoga-react-0.71.19/. -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.1 -fexceptions -frtti -O3 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -o CMakeFiles/yogacore.dir/yoga/YGNode.cpp.o -c /Users/user/Documents/sources/yoga-react-0.71.19/yoga/YGNode.cpp",
+  "file": "/Users/user/Documents/sources/yoga-react-0.71.19/yoga/YGNode.cpp",
+  "output": "CMakeFiles/yogacore.dir/yoga/YGNode.cpp.o"
+},
+{
+  "directory": "/Users/user/Documents/sources/yoga-react-0.71.19/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/user/Documents/sources/yoga-react-0.71.19/. -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.1 -fexceptions -frtti -O3 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -o CMakeFiles/yogacore.dir/yoga/YGNodePrint.cpp.o -c /Users/user/Documents/sources/yoga-react-0.71.19/yoga/YGNodePrint.cpp",
+  "file": "/Users/user/Documents/sources/yoga-react-0.71.19/yoga/YGNodePrint.cpp",
+  "output": "CMakeFiles/yogacore.dir/yoga/YGNodePrint.cpp.o"
+},
+{
+  "directory": "/Users/user/Documents/sources/yoga-react-0.71.19/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/user/Documents/sources/yoga-react-0.71.19/. -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.1 -fexceptions -frtti -O3 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -o CMakeFiles/yogacore.dir/yoga/YGStyle.cpp.o -c /Users/user/Documents/sources/yoga-react-0.71.19/yoga/YGStyle.cpp",
+  "file": "/Users/user/Documents/sources/yoga-react-0.71.19/yoga/YGStyle.cpp",
+  "output": "CMakeFiles/yogacore.dir/yoga/YGStyle.cpp.o"
+},
+{
+  "directory": "/Users/user/Documents/sources/yoga-react-0.71.19/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/user/Documents/sources/yoga-react-0.71.19/. -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.1 -fexceptions -frtti -O3 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -o CMakeFiles/yogacore.dir/yoga/YGValue.cpp.o -c /Users/user/Documents/sources/yoga-react-0.71.19/yoga/YGValue.cpp",
+  "file": "/Users/user/Documents/sources/yoga-react-0.71.19/yoga/YGValue.cpp",
+  "output": "CMakeFiles/yogacore.dir/yoga/YGValue.cpp.o"
+},
+{
+  "directory": "/Users/user/Documents/sources/yoga-react-0.71.19/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/user/Documents/sources/yoga-react-0.71.19/. -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.1 -fexceptions -frtti -O3 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -o CMakeFiles/yogacore.dir/yoga/Yoga.cpp.o -c /Users/user/Documents/sources/yoga-react-0.71.19/yoga/Yoga.cpp",
+  "file": "/Users/user/Documents/sources/yoga-react-0.71.19/yoga/Yoga.cpp",
+  "output": "CMakeFiles/yogacore.dir/yoga/Yoga.cpp.o"
+},
+{
+  "directory": "/Users/user/Documents/sources/yoga-react-0.71.19/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/user/Documents/sources/yoga-react-0.71.19/. -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.1 -fexceptions -frtti -O3 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -o CMakeFiles/yogacore.dir/yoga/event/event.cpp.o -c /Users/user/Documents/sources/yoga-react-0.71.19/yoga/event/event.cpp",
+  "file": "/Users/user/Documents/sources/yoga-react-0.71.19/yoga/event/event.cpp",
+  "output": "CMakeFiles/yogacore.dir/yoga/event/event.cpp.o"
+},
+{
+  "directory": "/Users/user/Documents/sources/yoga-react-0.71.19/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/user/Documents/sources/yoga-react-0.71.19/. -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.1 -fexceptions -frtti -O3 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -o CMakeFiles/yogacore.dir/yoga/internal/experiments.cpp.o -c /Users/user/Documents/sources/yoga-react-0.71.19/yoga/internal/experiments.cpp",
+  "file": "/Users/user/Documents/sources/yoga-react-0.71.19/yoga/internal/experiments.cpp",
+  "output": "CMakeFiles/yogacore.dir/yoga/internal/experiments.cpp.o"
+},
+{
+  "directory": "/Users/user/Documents/sources/yoga-react-0.71.19/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/user/Documents/sources/yoga-react-0.71.19/. -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.1 -fexceptions -frtti -O3 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -o CMakeFiles/yogacore.dir/yoga/log.cpp.o -c /Users/user/Documents/sources/yoga-react-0.71.19/yoga/log.cpp",
+  "file": "/Users/user/Documents/sources/yoga-react-0.71.19/yoga/log.cpp",
+  "output": "CMakeFiles/yogacore.dir/yoga/log.cpp.o"
+}
+]
