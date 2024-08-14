@@ -16,7 +16,7 @@
 YG_EXTERN_C_BEGIN
 
 YG_ENUM_SEQ_DECL(
-    YGAlign,
+    YGAlign2,
     YGAlignAuto,
     YGAlignFlexStart,
     YGAlignCenter,
